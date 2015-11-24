@@ -6,9 +6,11 @@
 ## 알아야 하는 내용
 - box model
 - block & inline element
-- float
 - position
+- float
+- box-sizing
 - clear
+
 
 ## 참고
 https://drafts.csswg.org/css2/
