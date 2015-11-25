@@ -15,6 +15,10 @@
 ## 참고
 https://drafts.csswg.org/css2/
 
+----------------------------수업내용정리(by 동준)----------------------------
+
+0.
+
     -우리가 만드는 CSS코드는 모든걸 ‘박스’로 다룬다고 생각해야 한다.
     -보통 width는 패딩까지가 width이다(border 제외)
     -한 라인에서 넘치면 그 아래로 대상이 내려가는 것을 normal flow라고 한다.
@@ -39,12 +43,10 @@ https://drafts.csswg.org/css2/
  
 
 
-
           -clear:both는 이 시점부터 ‘나는 전체에 floating되는 개념을 막겠다는 뜻이다.'
 
 4. 예제에서 content 아래에 margin 10px을 주는 방법
  
-
 
 
           1) <div class=“clear”></div> 가짜 div를 만들어서 clear both를 해준다.
